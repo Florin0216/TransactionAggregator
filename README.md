@@ -1,4 +1,4 @@
-This is a Spring-Boot based application designed to aggregate and sort financial transactions from multiple services.This service provides an efficient mechanism to fetch, consolidate, and deliver a unified list of transactions for a specific account.
+This is a Spring-Boot based application designed to aggregate and sort financial transactions from multiple services.This service provides an efficient mechanism to fetch and deliver a list of transactions for a specific account.
 
 Features:
 
